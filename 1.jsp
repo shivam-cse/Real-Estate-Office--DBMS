@@ -2,7 +2,7 @@
  response.setHeader("Cache-Control","no-cache,no-store,must-revalidate");
 			response.setHeader("Pragma","no-cache");
 			response.setHeader("Expires","0");
-			%>
+%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -29,9 +29,10 @@
 	}
 	.cont3 {
 		position: fixed;
-		margin-left: 550px;
+		margin-left: 500px;
 		margin-top: 150px;
 		text-align: center;
+		/* color:white; */
 	}
 	.opt{
 		position: fixed;
@@ -44,6 +45,8 @@
 
 </style>
 <body>
+
+
 	<%@ page import="java.sql.*" %>
   <%@ page import="java.util.*" %>
 	<%
@@ -53,22 +56,22 @@
 		 <table>
 		 	<tr>
 		 	   <td>
-		 	   	 <button type="submit" style=" font-size: 16px; cursor: pointer; margin-left: 60px;" onclick="location.href='1.jsp'">
+		 	   	 <button type="submit" style="font-size: 16px; cursor: pointer; margin-left: 60px;" onclick="location.href='1.jsp'">
 		 	    	<i class="fa fa-home"></i>
 		 			<span>Home</span>
 		 	    </button>
 		 	   </td>
 		 	<td>
-		 	   	 <button type="submit" style=" font-size: 16px; cursor: pointer; margin-left: 1200px;">
+		 	   	 <button type="submit" style=" font-size: 16px; cursor: pointer; margin-left: 1100px;">
 		 	   	 	<a href="2.jsp" style="text-decoration-line: none">
 		 	   	 		<%
 		 	   	 		  if(session.getAttribute("userid")==null)
 		 	   	 		  	{
 		 	   	 		%>
-		 	    	<i class="fa fa-user"></i>
-		 			<span>Login</span>
+								<i class="fa fa-user"></i>
+								<span>Login</span>
 		 			<% 
-		 			  } 
+		 			        } 
 		 			%>
 		 			<%
 		 	   	 		  if(session.getAttribute("userid")!=null)

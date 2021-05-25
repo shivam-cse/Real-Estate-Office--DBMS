@@ -62,7 +62,7 @@
 		 	    </button>
 		 	   </td>
 		 	<td>
-		 	   	 <button type="submit" style=" font-size: 16px; cursor: pointer; margin-left: 1200px;">
+		 	   	 <button type="submit" style=" font-size: 16px; cursor: pointer; margin-left: 1100px;">
 		 	   	 	<a href="2.jsp" style="text-decoration-line: none">
 		 	    	<i class="fa fa-sign-out"></i>
 		 			<span>
