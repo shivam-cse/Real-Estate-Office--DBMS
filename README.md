@@ -1,10 +1,23 @@
 # Real-Estate-Office--DBMS
 
-Demo Of this project : https://drive.google.com/file/d/1yHWhfL8EMvKVqvvg8TCL_JziNV6GA-n4/view?usp=sharing
-
+Demo Of this project : https://drive.google.com/file/d/1B5GL8gyiGnVxenwXazYWqWZiSMQTiXBv/view?usp=sharing
 
 Purpose
 It is a user-friendly application for real estate which allows the buyer to search the property according to their demands and range in just one click. It allows the seller to post the property, delete the property and modify the current property in an easy manner.
+
+
+![1](https://user-images.githubusercontent.com/56253080/190065403-f467228c-34b6-40e6-a0b6-0af9060a0632.png)
+![2](https://user-images.githubusercontent.com/56253080/190065426-cbe17ae8-e439-4bce-a7a3-f4cf50bd5462.png)
+![3](https://user-images.githubusercontent.com/56253080/190065435-47f7b6f3-6c03-49f1-8eaa-bcb7b135d628.png)
+![4](https://user-images.githubusercontent.com/56253080/190065452-0864d756-50bd-46bb-b42e-c497a16cbb3a.png)
+![5](https://user-images.githubusercontent.com/56253080/190065473-aaada153-69b9-42d4-b81a-c0b804791dd3.png)
+![6](https://user-images.githubusercontent.com/56253080/190065485-65bf7498-f30d-4521-9e88-a075e5c1ea38.png)
+![7](https://user-images.githubusercontent.com/56253080/190065505-ac6ea96b-a581-46a2-b024-b062486903d8.png)
+![8](https://user-images.githubusercontent.com/56253080/190065519-055c5629-0bdb-429a-96f1-a475b0c73583.png)
+![9](https://user-images.githubusercontent.com/56253080/190065541-1815201d-d2f5-42e5-b318-10760c6596d3.png)
+![10](https://user-images.githubusercontent.com/56253080/190065559-b62e985d-79f6-4e17-8daf-d6fe1dee9ad3.png)
+
+
 
 Introduction
 Introduction contains the following subcategories.
