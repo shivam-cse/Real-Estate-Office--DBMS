@@ -14,7 +14,6 @@ It is a user-friendly application for real estate which allows the buyer to sear
 ![6](https://user-images.githubusercontent.com/56253080/190065485-65bf7498-f30d-4521-9e88-a075e5c1ea38.png)
 ![7](https://user-images.githubusercontent.com/56253080/190065505-ac6ea96b-a581-46a2-b024-b062486903d8.png)
 ![8](https://user-images.githubusercontent.com/56253080/190065519-055c5629-0bdb-429a-96f1-a475b0c73583.png)
-![9](https://user-images.githubusercontent.com/56253080/190065541-1815201d-d2f5-42e5-b318-10760c6596d3.png)
 ![10](https://user-images.githubusercontent.com/56253080/190065559-b62e985d-79f6-4e17-8daf-d6fe1dee9ad3.png)
 
 
